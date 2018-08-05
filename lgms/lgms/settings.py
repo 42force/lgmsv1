@@ -55,7 +55,6 @@ INSTALLED_APPS = [
     'phonenumber_field',
     'star_ratings',
     'djmoney'
-
 ]
 
 AUTH_USER_MODEL ='students.CustomUser'
